@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/809949/6c5411960f654dc1bb045829c6ea2d40
+bundleId: https://api.rpubs.com/api/v1/document/809949/6c5411960f654dc1bb045829c6ea2d40
+url: http://rpubs.com/gandra/809949
+when: 1631790803.47809
+lastSyncTime: 1631790803.4781
